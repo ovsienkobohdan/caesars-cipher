@@ -17,9 +17,4 @@ class CaesarCipherTest {
         assertEquals("", caesarsCipher.cipher("", 12))
     }
 
-//    @Test
-//    fun testCipheredMessageWithOffsetOf11(){
-//        assertEquals("tai mdq kag pauzs fapmk", caesarsCipher.cipher("how are you doing today", 11))
-//    }
-
 }
